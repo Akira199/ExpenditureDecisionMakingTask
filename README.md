@@ -9,4 +9,7 @@ For the task to work device preqs are:
 - PsychoPy 2 (or above versions)
 - Download the images given in the file for the visuals to work
 
-Contact author: Nilosmita Banerjee at nilosmitabanerjee@gmail.com for any questions and related set-up files
+Contact author of Paper: Nilosmita Banerjee at nilosmitabanerjee@gmail.com for any questions and related set-up files
+
+
+(C) This Task was developed by Nilosmita Banerjee as a part of BSc thesis project and the Code was written in collaboration with supervisor of the project Dr. Tom Stafford (Department of Psychology, University of Sheffield, UK). 
