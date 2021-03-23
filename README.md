@@ -6,6 +6,7 @@ For task description see the related publication -- Banerjee N (2020). “What i
 Find the link to the paper - https://ijip.in/articles/what-is-the-significance-of-feedback-and-reinforcement-learning-mechanisms-in-aiding-dynamic-decision-making-proposing-a-revised-hybrid-reinforcement-learning-initiated-instance-b/
 
 For the task to work device preqs are:
-- PsychoPy 2 (at least)
+- PsychoPy 2 (or above versions)
 - Download the images given in the file for the visuals to work
+
 Contact author: Nilosmita Banerjee at nilosmitabanerjee@gmail.com for any questions and related set-up files
